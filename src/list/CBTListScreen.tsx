@@ -59,7 +59,7 @@ const ThoughtItem = ({
       <Paragraph
         style={{
           color: theme.darkText,
-          fontWeight: "400",
+          fontWeight: "399",
           fontSize: 16,
           marginBottom: 8,
           paddingLeft: 12,
