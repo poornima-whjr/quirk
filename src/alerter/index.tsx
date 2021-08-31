@@ -59,7 +59,7 @@ class AlertView extends React.Component<AlertViewProps> {
             height: 256,
             padding: 24,
             bottom: 24,
-            borderRadius: 13,
+            borderRadius: 12,
             backgroundColor: "white",
             borderColor: theme.lightGray,
             borderWidth: 2,
